@@ -1,6 +1,6 @@
 [
   {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
+    "path": "posts/2020-10-19-climate-change/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
     "author": [
@@ -22,35 +22,6 @@
       "English for Science",
       "Bacteria",
       "Adaptation"
-    ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T12:09:32+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
     ],
     "preview": {},
     "last_modified": "2020-10-08T12:09:32+02:00"
