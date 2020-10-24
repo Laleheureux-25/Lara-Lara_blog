@@ -1,6 +1,7 @@
 name: "blog-template"
 title: "Lara's Blog"
 output_dir: "docs"
+#favicon: insérer image
 navbar:
   right:
     - text: "Home"
@@ -9,7 +10,7 @@ navbar:
       menu:
         - text: "M.E.A.L."
           href: "posts/meal/index.html"
-        - text: "Climate change studies"
+        - text: "Subject of study"
           href: posts_list.html
     - text: "About Me"
       href: "posts/about/index.html"

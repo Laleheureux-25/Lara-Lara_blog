@@ -1,11 +1,17 @@
 ---
 title: "About Me"
-author: "Leheureux Lara" 
+author: 
   - name: "Leheureux Lara"  
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hi! My name is Lara. I study Biology at the university of Mons and this is my blog.
 
-- first name/surname, teacher’s name, class name and academic year
+I am a curious person. I am interested in animals and the environment but not only! I also like to discover new things about all kind of  scientific subjects but also cultural and historical thingies. I like reading, listening to music, watching videos or doing a bunch of other stuff during my free time.
+
+I have yet to discover the purpose of my sole existence but I feel the surge to quench my thirst for travels and adventure.
+
+This blog is one of my projects and I hope it'll be interesting for you, my muchochos!!
+
+- Leheureux/Lara, Nicolas Devilez, BAB2 - English/SDD class

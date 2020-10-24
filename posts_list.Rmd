@@ -3,5 +3,5 @@ title: "List of posts:"
 site: distill::distill_website
 listing: 
   posts:
-    - 2020-10-19-climate-change
+    - 2020-10-21-manta-ray
 ---
