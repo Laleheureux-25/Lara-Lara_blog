@@ -4,7 +4,10 @@ site: distill::distill_website
 listing: posts
 ---
   
-.  
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ![](images/nature-conservation.jpg)
   
 # Homepage
@@ -13,6 +16,6 @@ Hey there! I am glad you're here. This blog is an English science project and yo
 
 * **About me:** Nice to meet you!
 * **M.E.A.L:** That's my English activity log :)
-* **Subject of study:** In this part, you will find different articles analysed by me according to my chosen topic.
+* **Subject of study:** In this part, you will find different articles analysed by me according to my chosen topic: *Effect of climate change on animals*.
 
 I hope you have a good time!

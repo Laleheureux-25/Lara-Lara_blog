@@ -1,0 +1,49 @@
+---
+title: "article 1"
+description: |
+  The possible extinction of the komodo dragon due to climate change. 
+author:
+  - name: Leheureux Lara
+date: 10-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+Link of the site:
+
+* [article](https://www.sciencedaily.com/releases/2020/09/200917105400.htm)
+
+***
+The article comes from the site "ScienceDaily". I consulted it on Tuesday, 25th September 2020. 
+
+## **Vocabulary**
+
+Words          |Definition                               |Synonym
+---------------|-----------------------------------------|-------------
+*To intervene* |Foreign characteristics or circumstances |To intercede
+*Threatens*    |Announces a possible danger              |Hang over... 
+*The availability* | State of availability of a place    |/
+*The wild*      |Natural places                          |/
+*Despite*      |Attitude that goes against something     |Notwithstanding
+*Fieldwork*    |Data collection through observations and field research for a study topic|/
+*Extent*      |The extent of something to a certain degree,limit|The magnitude
+*Insight*     |Apprehension of something                 |Perception
+
+
+## **Analysis table**
+
+**Analysis points**   |
+----------------------|-------------------------------------------------
+*Researchers*         | University of Adelaide, Deakin University, Crispin Savage, Dr Alice Jones,  Dr Tim Jessop, Deni Purwandana, Professor Damien Fordham
+*Published in / when* |September 17, 2020 on Science News
+*General topic*       |The impact of climate change on the possible extinction of the komodo dragon
+*What was examined?*  |The researchers analyse, in this article, at what level climate change impacts some species such as the Komodo dragon. It has been shown that the Komodo Dragon population has declined sharply in their natural environment. Conservation and protection strategies are no longer sufficient in the face of climate change and the rising water levels to the point that this lizard could soon disappear from at least 3 of its 5 islands where it is currently listed as wild.
+*Conclusion*       |One of the most envisaged solutions is to move these species to other natural areas. Because the study shows that the lizard is more or less affected by this change depending on where it lives. Thus islands where human action is more important have a more vulnerable Dragon population than in natural reserves.So research shows that if action is not taken quickly against climate change, other species like here may also end up disappearing soon.
+
