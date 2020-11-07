@@ -5,5 +5,5 @@ listing:
   posts:
     - 2020-10-21-manta-ray
     - 2020-10-26-article-1
-    -
+    - 2020-11-02-article-2
 ---

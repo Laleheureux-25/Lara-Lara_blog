@@ -20,7 +20,7 @@ base_url: "http://Laleheureux-25.github.io/Lara Lara_blog/"
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus:
+      disqus: lara-blog-9 
         #shortname:
 output:
   distill::distill_article:
