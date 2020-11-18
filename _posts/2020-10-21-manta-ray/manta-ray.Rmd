@@ -19,48 +19,48 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Description 
 
-La raie manta, aussi appelée diable des mers, fait partie des plus grands animaux de la planette avec prés de 6 mètres d'envergure et presque 2 tonnes. Elle posséde un corps plat étendue avec deux paires de nageoires:
 
-* *Les nageoires pectorales* : Elles sont placées de part et d'autre du corps principal. Celles-c sont font penser à une paire d'aile qui permet à l'animal de nager et se diriger dans l'océan à la manière d'un oiseau dans les aires. 
+The manta ray, also called devil of the seas, is one of the largest animals of the planet with nearly 6 meters of span and almost 2 tons. It has an extended flat body with two pairs of fins:
 
-* *Les nageoires céphaliques* : Ce sont des extentions des nageoires pectorales de chaque côtés de la tête plate. Ces membres sont utilises afin faciliter la progression de l'animal dans l'eau et de lui permettre de nager plus vite. Elle utilise ces membres pour amener l'eau jusqu'aux branchies en la concentrant vers la bouche et également pour se nourrir.
+* *Pectoral fins*: They are placed on both sides of the main body. These are reminiscent of a pair of wings that allows the animal to swim and head into the ocean like a bird in the areas.
 
-La raie manta est un poisson dit **cartilagineux**, c'est à dire qu'il posséde un squelette en cartilage et donc assez mou. Ses fentes branchiales sont placées en dessous de l'animal sur son ventre et ses yeux sont disposés de chaque côtés de la tête au dessus des nageoires céphaliques. 
-Elle posséde une petite queue sans épine et son corps est bleu-gris foncé et blanc (principlement sur le ventre et le bout des ailes).
+* *Head fins*: These are pectoral fin extentions on each side of the flat head. These limbs are used to help the animal progress through the water and allow it to swim faster. It uses these limbs to bring water to the gills by concentrating it towards the mouth and also to feed itself.
+
+The manta ray is a fish called **cartilaginous**, that is to say it has a cartilage skeleton and therefore quite soft. Its gill slits are placed below the animal on its belly and its eyes are placed on either side of the head above the head fins.
+It has a small spineless tail and its body is dark blue-grey and white (mainly on the belly and tip of the wings).
 
 ![Grande raie manta vue de face avec les deux nageoires céphaliques.](Images/Giant_Manta_AdF.jpg)
 
-## Classification: 
+## Classification:
 
-Nom scientifique: *Mobula birostrs*
+Scientific name: *Mobula birostrs*
 
 Classification|
 ----------------|----------------
-Régne:          |Animalia
-Embranchement:  |Chordata
-Classe:         |Chondrichthyes (cartilagineux)
-Ordre:          |Myliobatiformes (ordre qui comporte toutes les raies)
-Famille:        |**Modibulae** 
-Genre:          |**Manta**
+Reign: |Animalia
+Spur: |Chordata
+Class: |Chondrichthyes (cartilaginous)
+Order: |Myliobatiformes (order with all lines)
+Family: |**Modibulae**
+Gender: |**Manta**
 
-## Mode de vie et habitat:
+## Lifestyle and Habitat:
 
-On retrouve les raies mantas principalement dans les **eaux chaudes** des tropiques **au niveau des récifs**, dans les eaux peu profondes. Cependant, au moment de la reproduction, elles peuvent se raprocher tout doucement des côtes. On les retrouve également parfois dans des eaux plus tempérées. Elles peuvent aussi migrer, tout en restant proche de leur habitat, pour trouver deszones où la nourriture y est plus abondante.  
+Manta rays are found mainly in the **warm waters** of the tropics **at reef level**, in shallow waters. However, at the time of reproduction, they can move gently from the coasts. They are also sometimes found in more temperate waters. They can also migrate, while remaining close to their habitat, to find areas where food is more abundant.
 
-### Alimentation:
+### Food:
 
-Elles se nourrissent principalement de **planctons** et autres micro-organismes ainsi que de petites poissons. Comme cité ci-dessus, la nourriture est dirigé vers la bouche grande ouverte via les nageoires céphaliques.
+They feed mainly on **plankton** and other microorganisms as well as small fish. As mentioned above, the food is directed to the mouth wide open via the cephalic fins.
 
-### Reproduction: 
+### Reproduction:
 
-Lors de la période de reproduction, nous avons que la raie migre au plus proche des côtes afin de trouver un partenaire. 
-On note que la raie posséde une rangée de dent qui est utilisé par le mâle pour accrocher la femelle lors de l'accouplement et non pour mastiquer a nourriture. 
+During the breeding season, we have that the skate migrates closer to the coast in order to find a partner.
+Note that the skate has a row of teeth that is used by the male to hook the female during mating and not to chew food.
 
-Apres la fécondation, la femellle faid des oeufs (géneralement 2) qui resteron à l'intérieur de l'utérus après éclosion et qui se nourriront de leur réserve d'énergie: le vitellus. L'animal est donc **ovivipare**. La période de gestation est d'environ 1 an et une fois bien développé, les petits sont relachés dans l'océan, ils ont alors plusieurs kilos et mesurent prés d'un mètre. La maturité sexuelle d'un individu arrive après près de 15 ans et on a, en moyenne, une naissance tous les 5 ou 6 ans. 
+After fertilization, the female makes eggs (usually 2) which will remain inside the uterus after hatching and which will feed on their energy reserve: the vitellus. The animal is therefore **ovivipare**. The gestation period is about 1 year and once well developed, the young are released into the ocean, they have several kilos and measure nearly one meter. The sexual maturity of an individual comes after almost 15 years and we have, on average, one birth every 5 or 6 years.
 
-Aujourd'hui on sait que la raie manta **peut vivre jusqiu'à 50 ans**.
+Today we know that the Manta Ray **can live up to 50 years**.
 
 
-Note supplémentaire: La raie possède des électrorécepteurs qui leur permettent de s'orienter, de trouver leur proie et leur partenaire potentiel. 
-
+Additional note: The line has electro receptors that allow them to orient themselves, to find their prey and their potential partner.
 

@@ -1,0 +1,33 @@
+---
+title: "graphic_description"
+description: |
+  Graphic analysis of sea urchins.
+author:
+  - name: Leheureux Lara
+    url: {}
+date: 11-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+SciViews::R
+```
+
+```{r}
+urchin <- data.io::read("urchin_bio", package = "data.io")
+```
+
+The subject represented here is realized with a data set on "urchin_bio" grouping several specific variables. Through R-studio, I created a graph that analyses the possible link, taking into account the origins, between the weight of the solid parts of urchin and the weight of lantern (the jaw).
+
+```{r}
+chart(data = urchin_bio, solid_parts ~ lantern %fill=% origin) +
+  geom_violin(na.rm = TRUE)
+```
+
+ If we look at the data that are analyzed, we can see that, generally, the weight of the solid part is condensed between 0 and 20-30 g and decreases afterwards while the weight of the lantern is quite variable. It can also be seen that individuals with an average lantern weight between 0.4 and 1.0 have a greater weight of solid part. For origins, it may be noted that urchins of Farm origin have more variable data than Fishery but are globally the same.
