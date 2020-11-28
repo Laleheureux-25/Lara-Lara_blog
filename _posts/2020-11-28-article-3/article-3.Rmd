@@ -1,0 +1,55 @@
+---
+title: "article 3"
+description: |
+  What about the animals that live at the ground level?.
+author:
+  - name: Lara Leheureux
+    url: {}
+date: 11-28-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](field.jpg)
+
+Link of the site:
+
+* [article](https://www.sciencedaily.com/releases/2020/07/200728113520.htm)
+
+***
+
+## **Vocabulary**
+
+Words          |Definition                               |Synonym
+---------------|-----------------------------------------|-------------
+*Occur*|To come into existence.|happen
+*Unnoticed*|Who can’t be seen.|/
+*Dwellers (dwell)*|Who live somewhere as a resident.|remain
+*Indefatigable*|Incapable of being fatigued.|inexhaustible
+*Feared*|Look with fear, fear something or someone.|/
+*Increasingly*|Something that keeps growing.|growing
+*Droughts*|Period of high heat and dryness which causes major problems especially at the agricultural level.|dearth
+*Meadow*|Land that is covered with grass.|/
+*Plough*|Turning over the ground, preparing the fields.|/
+*Mowing*|Cutting herbs.|shearing
+*Springtails*|Any of an order (Collembola) of small primitive wingless arthropods that are either classified as insects or are placed in a related class (Entognatha), that have internal mouthparts enclosed in folds of the head, usually possess a furcula used for jumping, exhibit incomplete metamorphosis, feed especially on fungi and decaying vegetation, and are typically found in moist or wet surroundings (such as soil, on the surface of water or melting snow, or in caves).|/
+*To dwindle*|Less and less.|decrease
+*The sobering*|Making feel serious and thoughtful.|/
+*Regardless*|Despite everything.|anyway
+*To mitigate*|To become less harsh or hostile.|relieve
+
+
+## **Analysis table**
+
+**Analysis points**   |
+----------------------|-------------------------------------------------
+*Researchers*         |Helmholtz Center for Environmental Research (UFZ), German center for integrative Biodiversity Research (iDiv), Dr Martin Schädler, Rui Yin
+*Published in / when* |July 28, 2020 in Science News
+*General topic*       |Physical impact of climate change and over-intensive cultivation on soil animals.
+*What was examined?*  |Researchers from iDiv and UFZ, mainly Dr Martin Shädler, analysed the impact of climate change combined with intensive agriculture on soil-dwelling animals. To support their study, they simulate a climate that we will be able to observe between 2070 and 2100 with 0.6 degrees more and higher precipitation and drought rates than those observed today. With this, they were able to show that the animals of the ground became much smaller in order to adapt to the change of their environment. In addition, the increase in temperature also affects their metabolism and their development. “ This creates new generations faster but they remain smaller” Dr Martin Shädler and that is not good.
+*Conclusion*          |It has been shown that the different impacts on these animals did so two ways: first, climate change affects their physical characteristics and second, intensive agriculture affects their numbers and therefore their density. The problem is that all these changes affect biomass. Indeed, all animals living in the soil have an important role because they participate in the decomposition and recycling of nutrients in the soil. This negative point therefore has a direct impact on our ecosystem. In order to counter this as much as possible, the experts announce that the gesture must come from each of us mainly at the level of agriculture because we are all involved.

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-11-28-article-3/",
+    "title": "article 3",
+    "description": "What about the animals that live at the ground level?.",
+    "author": [
+      {
+        "name": "Lara Leheureux",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-28T17:51:51+01:00"
+  },
+  {
     "path": "posts/2020-10-21-manta-ray/",
     "title": "Manta Ray",
     "description": "A beautiful sea creature!",
@@ -55,14 +70,14 @@
     "description": "Primate habitat threatened.",
     "author": [
       {
-        "name": "Laleheureux-25",
+        "name": "Lara Laleheureux",
         "url": {}
       }
     ],
     "date": "2020-11-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-18T18:27:58+01:00"
+    "last_modified": "2020-11-28T17:50:03+01:00"
   },
   {
     "path": "posts/2020-10-26-article-1/",

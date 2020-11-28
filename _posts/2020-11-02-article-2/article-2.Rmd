@@ -3,7 +3,7 @@ title: "article 2"
 description: |
   Primate habitat threatened.
 author:
-  - name: Laleheureux-25
+  - name: Lara Laleheureux
 date: 11-02-2020
 output:
   distill::distill_article:
@@ -22,6 +22,8 @@ Link of the site:
 
 * [article](https://www.sciencedaily.com/releases/2020/08/200818142111.htm)
 
+***
+
 ## **Vocabulary**
 
 Words          |Definition                               |Synonym
@@ -39,6 +41,7 @@ Words          |Definition                               |Synonym
 *Sustainability*|More sustainable lifestyle.|defendable, maintainable
 *To be aware*|/|to be conscious
 *The struggle*|Face and resist certain situations.| fight
+
 
 
 ## **Analysis table**
