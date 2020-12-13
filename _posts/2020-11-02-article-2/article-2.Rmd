@@ -14,8 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-
 ![](monkeys.jpg)
 
 Link of the site:
