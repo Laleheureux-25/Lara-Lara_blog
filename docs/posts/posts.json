@@ -16,8 +16,8 @@
   },
   {
     "path": "posts/2021-02-19-article-6/",
-    "title": "article-6",
-    "description": "What impacts for jaguars.",
+    "title": "article 6",
+    "description": "What impacts for jaguars?",
     "author": [
       {
         "name": "Lara Leheureux",
@@ -27,7 +27,22 @@
     "date": "2021-02-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-02-27T17:47:25+01:00"
+    "last_modified": "2021-03-14T16:22:53+01:00"
+  },
+  {
+    "path": "posts/2021-02-19-article-7/",
+    "title": "article 7",
+    "description": "Climate change and the animals of the desert.",
+    "author": [
+      {
+        "name": "Lara Leheureux",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-19",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-14T16:24:31+01:00"
   },
   {
     "path": "posts/2020-12-07-article-4/",
