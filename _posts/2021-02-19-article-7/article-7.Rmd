@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](desert.jpg)
 
-link of the site:
+Link of the site:
 
-*[article](https://www.sciencedaily.com/releases/2021/02/210204143218.htm)
+* [article](https://www.sciencedaily.com/releases/2021/02/210204143218.htm)
 
 ***
 

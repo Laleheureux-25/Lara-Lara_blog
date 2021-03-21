@@ -17,8 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](jaguar-2894706_1920.jpg)
 
-link of the site:
-*[article](https://www.sciencedaily.com/releases/2020/11/201130101243.htm)
+Link of the site:
+
+* [article](https://www.sciencedaily.com/releases/2020/11/201130101243.htm)
 
 ***
 
