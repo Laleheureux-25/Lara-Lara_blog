@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Link of the site:
 
-* [article](https://www.sciencedaily.com/releases/2021/03/210316093429.htm )
+* [article](https://www.sciencedaily.com/releases/2021/03/210316093429.htm)
 
 ***
 
